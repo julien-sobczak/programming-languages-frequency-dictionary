@@ -1,0 +1,20 @@
++-------------------------------------+------------------+----------+
+| FQN                                 | Member           | type     | 
++-------------------------------------+------------------+----------+
+| java.lang.Integer                   | MAX_VALUE        | variable |
+| java.lang.Integer                   | valueOf          | method   |
+| java.lang.Set                       | toArray          | method   |
+| java.util.Arrays                    | asList           | method   |
+| java.util.Collections               | synchronizedList | method   |
+| java.util.Collections               | synchronizedSet  | method   |
+| java.util.List                      | get              | method   |
+| java.util.List                      | isEmpty          | method   |
+| java.util.List                      | iterator         | method   |
+| java.util.List                      | size             | method   |
+| java.util.Iterator                  | hasNext          | method   |
+| java.util.Iterator                  | next             | method   |
+| org.apache.commons.collections.Bag  | contains         | method   |
+| org.apache.commons.lang.StringUtils | isAllUpperCase   | method   |
+| org.apache.commons.lang.StringUtils | split            | method   |
++-------------------------------------+------------------+----------+
+

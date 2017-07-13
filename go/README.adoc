@@ -1,0 +1,8 @@
+# Go Frequency Dictionary
+
+## 500 most frequent words
+
+[format="csv", options="header"]
+|===
+include::results/go-500-most-frequent-words.csv[]
+|===

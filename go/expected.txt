@@ -1,0 +1,58 @@
+[
+  {
+    "package": "fmt",
+    "member": "Print",
+    "count": 1
+  },
+  {
+    "package": "crypto/rand",
+    "member": "Int",
+    "count": 1
+  },
+  {
+    "package": "fmt",
+    "member": "Printf",
+    "count": 1
+  },
+  {
+    "package": "strconv",
+    "member": "Itoa",
+    "count": 1
+  },
+  {
+    "package": "math",
+    "member": "Sin",
+    "count": 1
+  },
+  {
+    "package": "fmt",
+    "member": "Println",
+    "count": 3
+  },
+  {
+    "package": "text/template",
+    "member": "New",
+    "count": 1
+  },
+  {
+    "package": "errors",
+    "member": "New",
+    "count": 1
+  },
+  {
+    "package": "bytes",
+    "member": "Buffer.Bytes",
+    "count": 1
+  },
+  {
+    "package": "fmt",
+    "member": "Sprint",
+    "count": 1
+  },
+  {
+    "package": "os",
+    "member": "File.Name",
+    "count": 1
+  }
+]
+

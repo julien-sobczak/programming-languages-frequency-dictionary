@@ -1,0 +1,16 @@
+# Python Frequency Dictionary
+
+## 500 most frequent standard functions
+
+[format="csv", options="header"]
+|===
+include::results/python-500-most-frequent-standard-words.csv[]
+|===
+
+
+## 500 most popular 3rd-party libraries
+
+[format="csv", options="header"]
+|===
+include::results/python-500-most-frequent-standard-words.csv[]
+|===

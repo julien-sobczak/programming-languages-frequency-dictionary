@@ -1,0 +1,8 @@
+# Java Frequency Dictionary
+
+## 500 most frequent words
+
+[format="csv", options="header"]
+|===
+include::results/java-500-most-frequent-words.csv[]
+|===

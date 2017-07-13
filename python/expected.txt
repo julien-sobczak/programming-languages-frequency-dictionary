@@ -1,0 +1,65 @@
+me": "coverage.Coverage.start",
+    "count": 1
+  },
+  {
+    "name": "range",
+    "count": 1
+  },
+  {
+    "name": "Queue.Queue.put",
+    "count": 1
+  },
+  {
+    "name": "coverage.Coverage.stop",
+    "count": 1
+  },
+  {
+    "name": "coverage.Coverage.save",
+    "count": 1
+  },
+  {
+    "name": "coverage.Coverage.html_report",
+    "count": 1
+  },
+  {
+    "name": "hashlib.md5",
+    "count": 1
+  },
+  {
+    "name": "os.path.join",
+    "count": 1
+  },
+  {
+    "name": "struct.unpack",
+    "count": 3
+  },
+  {
+    "name": "socket.inet_aton",
+    "count": 3
+  },
+  {
+    "name": "net.split",
+    "count": 1
+  },
+  {
+    "name": "int",
+    "count": 1
+  },
+  {
+    "name": "print",
+    "count": 1
+  },
+  {
+    "name": "time.strptime",
+    "count": 1
+  },
+  {
+    "name": "datetime.datetime.utcnow",
+    "count": 1
+  },
+  {
+    "name": "datetime.timedelta",
+    "count": 1
+  }
+]
+

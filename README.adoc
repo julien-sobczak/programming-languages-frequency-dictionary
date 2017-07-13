@@ -1,0 +1,20 @@
+# Programming Language Frequency Dictionary
+
+When learning a new language (french, german, ...), polyglots commonly create flashcards to help them learn the 500 (or more) most frequent words. In practice, these words represent generally 90 per cent of the vocabulary (pareto principe apply here too.)
+
+The objective of this project is to list the most commonly functions/types/methods of major programming languages. We use the https://cloud.google.com/bigquery/public-data/github[dataset GitHub] available on BigQuery, and in particular the table `bigquery-public-data:github_repos.sample_contents`.
+
+
+## Java
+
+link:java/README.adoc[]
+
+
+## Python
+
+link:python/README.adoc[]
+
+
+## Go
+
+link:go/README.adoc[]
