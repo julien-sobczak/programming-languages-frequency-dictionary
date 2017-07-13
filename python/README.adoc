@@ -12,5 +12,5 @@ include::results/python-500-most-frequent-standard-words.csv[]
 
 [format="csv", options="header"]
 |===
-include::results/python-500-most-frequent-standard-words.csv[]
+include::results/python-500-most-popular-libraries.csv[]
 |===
